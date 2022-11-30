@@ -1,2 +1,9 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Primeiro passo: git clone (colar endereço do git)
+Segundo passo: entrar no diretório do repositório -> cd nomedorepositório/
+Terceiro passo: git status -> verificar se está na branch main e se houve modificações no repositório
+Quarto passo: git add . (ou -A) -> caso exista atualização
+Quinto passo: git commit -m "é importante comentar" 
+Sexto passo: git push origin main -> para enviar ao repositório na branch main
